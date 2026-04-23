@@ -1,6 +1,9 @@
 /**
  * definitions for module thermodynamics.c
  */
+#ifdef I
+#undef I
+#endif
 
 #ifndef __ARRAYS__
 #define __ARRAYS__
